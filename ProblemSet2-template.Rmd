@@ -1,6 +1,6 @@
 ---
 title: "Title of Your Report"
-author: "Zuoyu Wang, Zijun Ye, "
+author: "Zuoyu Wang, Zijun Ye, Yuhan Zhao"
 date: "Due Date"
 output: pdf_document
 ---
